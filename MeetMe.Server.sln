@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MeetMe.Entities", "MeetMe.Entities\MeetMe.Entities.csproj", "{A49A9136-C573-4912-95FA-CECC0E6CD4ED}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MeetMe.Repositories", "MeetMe.Repositories\MeetMe.Repositories.csproj", "{68AEF743-7A28-433D-B803-31290709F71C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MeetMe.Interfaces", "MeetMe.Interfaces\MeetMe.Interfaces.csproj", "{37962DE1-BC9E-4279-9F2D-9C84D6E0C061}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MeetMe.API", "MeetMe.API\MeetMe.API.csproj", "{972C729F-F830-423E-BD16-CD57E52894E8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MeetMe.Infrastructure", "MeetMe.Infrastructure\MeetMe.Infrastructure.csproj", "{A2FFDFFD-B4D2-44C4-A885-2B8FA7417C29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A49A9136-C573-4912-95FA-CECC0E6CD4ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A49A9136-C573-4912-95FA-CECC0E6CD4ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A49A9136-C573-4912-95FA-CECC0E6CD4ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A49A9136-C573-4912-95FA-CECC0E6CD4ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68AEF743-7A28-433D-B803-31290709F71C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68AEF743-7A28-433D-B803-31290709F71C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68AEF743-7A28-433D-B803-31290709F71C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68AEF743-7A28-433D-B803-31290709F71C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37962DE1-BC9E-4279-9F2D-9C84D6E0C061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37962DE1-BC9E-4279-9F2D-9C84D6E0C061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37962DE1-BC9E-4279-9F2D-9C84D6E0C061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37962DE1-BC9E-4279-9F2D-9C84D6E0C061}.Release|Any CPU.Build.0 = Release|Any CPU
+		{972C729F-F830-423E-BD16-CD57E52894E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{972C729F-F830-423E-BD16-CD57E52894E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{972C729F-F830-423E-BD16-CD57E52894E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{972C729F-F830-423E-BD16-CD57E52894E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2FFDFFD-B4D2-44C4-A885-2B8FA7417C29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2FFDFFD-B4D2-44C4-A885-2B8FA7417C29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2FFDFFD-B4D2-44C4-A885-2B8FA7417C29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2FFDFFD-B4D2-44C4-A885-2B8FA7417C29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DFFB4C9-4980-4FEB-B7B2-6AF417E8BD51}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://aiub-projects.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = MeetMe.Entities\\MeetMe.Entities.csproj
+		SccProjectName1 = MeetMe.Entities
+		SccLocalPath1 = MeetMe.Entities
+		SccProjectUniqueName2 = MeetMe.Repositories\\MeetMe.Repositories.csproj
+		SccProjectName2 = MeetMe.Repositories
+		SccLocalPath2 = MeetMe.Repositories
+		SccProjectUniqueName3 = MeetMe.Interfaces\\MeetMe.Interfaces.csproj
+		SccProjectName3 = MeetMe.Interfaces
+		SccLocalPath3 = MeetMe.Interfaces
+		SccProjectUniqueName4 = MeetMe.API\\MeetMe.API.csproj
+		SccProjectName4 = MeetMe.API
+		SccLocalPath4 = MeetMe.API
+		SccProjectUniqueName5 = MeetMe.Infrastructure\\MeetMe.Infrastructure.csproj
+		SccProjectName5 = MeetMe.Infrastructure
+		SccLocalPath5 = MeetMe.Infrastructure
+	EndGlobalSection
+EndGlobal
